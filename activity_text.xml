@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="#f1ed0a"
+    tools:context="com.example.my.pritam.Text">
+
+    <TextView
+        android:layout_width="500dp"
+        android:layout_height="500dp"
+        android:text="Happy Birthday to the most beautiful person i ever met not only by looks but by heart too. A true friend , so kind , creative , passionate ,hard working , soft,beautiful, sweetly childish..u r just like a rainbow so many colours representing so many qualties. i m so lucky to have a best friend like you ..i pray that u achieve all ur goals in life and always stay happy .Happy birthday to you  "
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:textStyle="italic"
+        android:textColor="#e76c0e"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="42dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
